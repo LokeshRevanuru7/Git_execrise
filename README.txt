@@ -1,0 +1,1 @@
+THis is the execrise three and using git commands and deploy the github.
